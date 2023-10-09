@@ -1,3 +1,5 @@
+Here are the looks:-![Screenshot (144)](https://github.com/jayantsB123/Online-MERN-Restaurant-Website/assets/97082996/929d6cb5-bdc1-4b37-836f-fcbba1a6e46d)
+![Screenshot (145)](https://github.com/jayantsB123/Online-MERN-Restaurant-Website/assets/97082996/1b84f1ef-da48-443f-84b8-d44784d96e2e)
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -69,7 +71,5 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 
-Here are the looks:-![Screenshot (144)](https://github.com/jayantsB123/Online-MERN-Restaurant-Website/assets/97082996/929d6cb5-bdc1-4b37-836f-fcbba1a6e46d)
-![Screenshot (145)](https://github.com/jayantsB123/Online-MERN-Restaurant-Website/assets/97082996/1b84f1ef-da48-443f-84b8-d44784d96e2e)
 ![Screenshot (146)](https://github.com/jayantsB123/Online-MERN-Restaurant-Website/assets/97082996/5d887f6d-b703-4bd5-a8a1-6128e8cd3eef)![Screenshot (147)](https://github.com/jayantsB123/Online-MERN-Restaurant-Website/assets/97082996/1a925987-a831-493b-be13-d8e56302aa80)
 
